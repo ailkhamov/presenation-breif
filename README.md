@@ -1,10 +1,24 @@
-# READ For Presentation
+# Presentation Structure
 
-This is some text :)
+# Angle/Question
 
-# This is a h2 header
+## Introduction
 
-This is more text
+## Background
+if needed
 
-## I'm an H3 header
-sd
+## Outline/Agenda
+
+Outline the Presentation
+
+## Sections
+Focus towards delivering on Objectives
+Lead in
+Content
+Key takeaway - Summery
+
+## Conclusion/Summery
+
+Mirror Introduction and deliver Objectives
+
+# Any Questions?
